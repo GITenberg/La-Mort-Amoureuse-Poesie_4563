@@ -1,5 +1,5 @@
 _repo: La-Mort-Amoureuse-Poesie_4563
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -23,5 +23,6 @@ rights_url: ''
 subjects:
 - !lcc 'PQ'
 - !lcsh 'Poetry'
+- GITenberg
 title: 'La Mort Amoureuse: Poésie'
 url: http://www.gutenberg.org/ebooks/4563
